@@ -33,8 +33,8 @@ if __name__ == "__main__":
     speciesList = ['unsaturated','saturated','cholesterol']
 
     # find out where the centre of the bilayer lies
-    bilayer = u.selectAtoms("name PO4 or name ROH")
-    bilayerCentre = bilayer.centerOfGeometry()[2]
+    bilayer = u.select_atoms("name PO4 or name ROH")
+    bilayerCentre = bilayer.center_of_geometry()[2]
     
     # use the MDAnalysis analysis function LeafletFinder to identify the two bilayers
     bilayerLeaflets = LeafletFinder(u,'name PO4 or name ROH')
