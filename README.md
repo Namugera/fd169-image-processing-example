@@ -1,7 +1,7 @@
 fd169-image-processing-example
 ==============================
 
-This python script accompagnies the paper "NRas slows the rate at which a model lipid bilayer phase separates" which was part of the 169th Faraday Discussion held at Nottingham, UK, 7-9 May 2014. The paper can be retrieved via its [doi:10.1039/c3fd00131h](dx.doi.org/10.1039/c3fd00131h).
+This python script accompagnies the paper "NRas slows the rate at which a model lipid bilayer phase separates" which was part of the 169th Faraday Discussion held at Nottingham, UK, 7-9 May 2014. The paper can be retrieved via its [doi:10.1039/c3fd00131h](http://dx.doi.org/10.1039/c3fd00131h).
 
 ## Aim
 
