@@ -26,9 +26,9 @@ On a Mac many of these can be installed using [MacPorts](www.macports.org). [MDA
 ## Running
 
 Run the python code detect-bilayer-phases.py, for example
-
-  python detect-bilayer-phases.py
-
+```
+python detect-bilayer-phases.py
+```
 The code should take less than a minute to run on a modern laptop.
 
 ## Expected output
